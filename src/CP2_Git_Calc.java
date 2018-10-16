@@ -20,7 +20,7 @@ class Calc {
 	}
 	
 	public int mul(double a, double b) {
-		return -1;
+		return (int)(a*b);
 	}
 	
 	public int div(double a, double b) {
