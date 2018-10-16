@@ -24,6 +24,6 @@ class Calc {
 	}
 	
 	public int div(double a, double b) {
-		return -1;
+		return (int)(a/b);
 	}
 }
